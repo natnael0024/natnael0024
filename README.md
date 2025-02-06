@@ -36,7 +36,7 @@ Here are some of the tools and technologies I work with:
 
 ## 📝 My Latest Blog Posts
 
-- [Post Title 1]([Link-to-Post](https://chillandcode.onrender.com/blogs/11))
-- [Post Title 2]([Link-to-Post](https://chillandcode.onrender.com/blogs/2))
+- [Life Is Short](https://chillandcode.onrender.com/blogs/11)
+- [Meet The Youngest Billionaire](https://chillandcode.onrender.com/blogs/2)
 
 Thank you for stopping by! Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate. 😊
