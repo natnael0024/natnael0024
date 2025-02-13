@@ -36,9 +36,4 @@ Here are some of the tools and technologies I work with:
 - [LinkedIn](https://www.linkedin.com/in/nathnael-legesse-6239591a2)  
 - [Portfolio](https://natnaellegesse.vercel.app)
 
-## 📝 My Latest Blog Posts
-
-- [Life Is Short](https://chillandcode.onrender.com/blogs/11)
-- [Meet The Youngest Billionaire](https://chillandcode.onrender.com/blogs/2)
-
 Thank you for stopping by! Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate. 😊
