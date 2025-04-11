@@ -17,7 +17,7 @@ Here are some of the tools and technologies I work with:
 - **Languages**:  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-  ![PHP](https://img.shields.io/badge/Php-3776AB?style=flat&logo=php&logoColor=black)  
+  ![PHP](https://shields.io/badge/-PHP-3776AB?style=flat&logo=php)  
 
 - **Web Development**:  
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
