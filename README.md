@@ -15,6 +15,22 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=natnael0024&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natnael0024&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
+---
+
+## ⚡ Recent GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=natnael0024&theme=github" alt="Contribution Graph" />
+</p>
+
+
 ## 🛠️ Tech Stack
 
 ### 🧠 Languages  
