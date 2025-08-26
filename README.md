@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm X 👋</h1>
+<h1 align="center">Hi, I'm Natnael Legesse👋</h1>
 <p align="center">
-  🚀 Passionate Developer • 🤖 AI/ML Enthusiast • 💻 Open Source Advocate
+  🚀 Creative Developer • 🤖 AI/ML Enthusiast • 💻 Open Source Advocator
 </p>
 
 ---
