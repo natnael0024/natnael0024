@@ -1,40 +1,64 @@
-# Hi, I'm Natnael Legesse 👋
+<h1 align="center">Hi, I'm Natnael Legesse 👋</h1>
+<p align="center">
+  🚀 Passionate Developer • 🤖 AI/ML Enthusiast • 💻 Open Source Advocate
+</p>
 
-Welcome to my GitHub profile! I'm a passionate developer with a strong interest in **AI/ML**. I love to work on **open-source** projects and contribute to the tech community.
+---
 
 ## 🚀 About Me
 
-- 💻 I’m currently working on **New Project**
-- 🌱 I’m learning more about **AI**
-- 📫 How to reach me: **nathanleg23@gmail.com**
-- 👯 I’m looking to collaborate on **AI/ML Projects**
+- 💻 Currently working on **New Project**
+- 🌱 Learning more about **AI/ML**
+- 👯 Looking to collaborate on **AI/ML projects**
+- 📫 Reach me: **nathanleg23@gmail.com**
 - ⚡ Fun fact: **404 Not Found**
 
-## 🛠️ Technologies & Tools
+---
 
-Here are some of the tools and technologies I work with:
+## 🛠️ Tech Stack
 
-- **Languages**:  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
+### 🧠 Languages  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+</p>
 
-- **Web Development**:  
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
+### 🌐 Frameworks & Libraries  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
+</p>
 
-- **Tools**:  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-  ![CI/CD](https://img.shields.io/badge/CI%2FCD-0082FF?style=flat&logo=ci%2Fcd&logoColor=white)
+### 🔧 Tools & Platforms  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="CI/CD" />
+</p>
 
-## 🔗 Connect with Me
+---
 
-- [LinkedIn](https://www.linkedin.com/in/nathnael-legesse-6239591a2)  
-- [Portfolio](https://natnaellegesse.vercel.app)
+## 🌍 Connect with Me
 
-Thank you for stopping by! Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate. 😊
+<p>
+  <a href="mailto:nathanleg23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nathnael-legesse-6239591a2">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://natnaellegesse.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to build something awesome together. 😊
+</p>
