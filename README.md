@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Natnael Legesse 👋</h1>
+<h1 align="center">Hi, I'm X 👋</h1>
 <p align="center">
   🚀 Passionate Developer • 🤖 AI/ML Enthusiast • 💻 Open Source Advocate
 </p>
@@ -15,22 +15,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natnael0024&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natnael0024&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
----
-
-## ⚡ Recent GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=natnael0024&theme=github" alt="Contribution Graph" />
-</p>
-
-
 ## 🛠️ Tech Stack
 
 ### 🧠 Languages  
@@ -43,7 +27,7 @@
 ### 🌐 Frameworks & Libraries  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
 </p>
@@ -51,10 +35,23 @@
 ### 🔧 Tools & Platforms  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" style="background-color:white; border-radius:6px; padding:2px;" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="CI/CD" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=natnael0024&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natnael0024&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=natnael0024&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -76,5 +73,7 @@
 ---
 
 <p align="center">
-  Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to build something awesome together. 😊
+  Thanks for visiting!  
+  <br />
+  ⭐️ Feel free to explore my repos and reach out for collaboration!
 </p>
