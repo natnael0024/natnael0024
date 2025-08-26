@@ -51,8 +51,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=natnael0024&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=natnael0024&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+
 
 ---
 
